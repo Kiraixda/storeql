@@ -14,7 +14,7 @@ setup(
 	author='Kirai',
 	author_email='allerborndaniel54@gmail.com',
 	url='https://github.com/Kiraixda/storeql',
-	#download_url='',
+	download_url='https://github.com/Kiraixda/storeql/archive/refs/tags/1.0.1.tar.gz',
 	keywords=['FAST','VAULT','CLI'],
 	include_package_data=True,
 	install_requirements=read_requirements(),
